@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About French Revolutionary Data
+# About the French Revolutionary Data Project
 The data available on this site are derived from work done under the auspices of Stanford’s _French Revolution Digital Archive_. The FRDA project scanned, OCRed, and encoded the first 82 (of 102) volumes of the Archives parlementaires (AP), the record of speeches and deliberations from French Revolutionary constitutional and legislative assemblies. These volumes only cover the first five years of the French Revolution, from the Cahiers des États Généraux of 1789 until 4 January 1794. FRDA, a collaboration between faculty and students in the humanities at Stanford University, Stanford Libraries, and the Bibliothèque nationale de France (BnF), presented the AP through a user interface permitting basic keyword and chronological searching. 
 
 FRDA received praise from the community of scholars working on the Revolution, but developments in digital humanities methods, researcher requests, and newly available data motivate the original researchers to expand from the FRDA foundation. 
